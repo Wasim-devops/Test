@@ -1,0 +1,21 @@
+
+    
+
+I got your contact details from devops professional capstone community
+
+
+I have completed certification as well as taken devops classes from outside
+  
+
+If you come across any requirement kindly let me know
+ 
+
+I am really struggling for almost 5 months to get a Devops project but no luck works.
+
+---
+ - hosts: localhost
+   tasks:
+     - name: create a directory
+       file:
+         path: /home/osgdev ____
+         state: directory
